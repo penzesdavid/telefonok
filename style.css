@@ -1,0 +1,56 @@
+header{
+    background-image: url('fejlec_ajandek.jpg');
+}
+
+footer{
+    background-color: rgb(13, 109, 252);
+    height: 20%;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.nav{
+    margin-top: 80px;
+}
+
+.nav-link.active{
+    color: rgb(237, 183, 45);
+}
+
+li{
+    margin: 10px;
+}
+
+.nav-item{
+    font-weight: bold;
+    background-color: rgb(34, 35, 46);
+    border-radius: 10px;
+    box-shadow: 2px 5px 8px #000000;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    margin: 10px;
+}
+
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.col-sm-4{
+    font-weight: bold;
+    background-color: rgb(34, 35, 46);
+    border-radius: 10px;
+    box-shadow: 2px 5px 8px #000000;
+    text-align: center;
+    margin: 5px;
+    width: 30%;
+}
